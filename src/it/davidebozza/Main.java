@@ -6,5 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("Hello, World");
         Point p = new Point();
+        p.x = 0;
+        p.y = 0;
     }
 }
